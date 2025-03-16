@@ -2,5 +2,6 @@
 Hello Git!
 Welcome to the world of github
 welcome back
-demo git
+git git
+git demo
 branch change
